@@ -103,12 +103,12 @@ body {
   position: relative;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   background: #e6f0ff;
   height: calc(100vh - 102px);
 }
 .hero {
   display: flex;
-  margin-top: 130px;
 }
 /* Information */
 .hero .infor {
